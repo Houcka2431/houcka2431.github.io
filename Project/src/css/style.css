@@ -1,0 +1,51 @@
+.container-fluid {
+  background:#eaeaea ;
+  
+
+}
+.h-logo{
+  margin-top: 100px;
+}
+.menu-h{
+  background-color: #f7f7f7;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  width:100%;
+  height:125px;
+  margin: 120px 0px;
+
+}
+#lemon-h   {
+  margin:45px 0px;
+}
+.input-h{
+  margin: 50px 0px;
+  
+}
+.buttons-h  {
+  text-transform:uppercase ;
+  margin:50px 15px;
+
+}
+.bl2{
+  padding:0;
+}
+.block2{
+  height:440px;
+  background-color:#f7f7f7;
+  background-image:url(block2.1.jpg);
+  background-size: 100%;
+
+  
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+
+ 
+}
+#lemon2{
+  margin-top: 50px;
+  margin-bottom: 40px;
+  display: block;
+}
+#getrecipe1 {
+  display: block;
+  margin: 40px 0px;
+}
